@@ -1,4 +1,4 @@
-![logo](https://github.com/india-akinternational/india-akinternational/tree/main#:~:text=History-,Github%20Banner.png,-Rename%20new.png)
+![logo](https://github.com/india-akinternational/india-akinternational/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Abul Kalam Sekh</h1>
 <h3 align="center">Odoo</h3>
